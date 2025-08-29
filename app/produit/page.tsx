@@ -21,11 +21,11 @@ export const metadata: Metadata = {
     title: "Nos Produits | Hilary Tech",
     description:
       "Explorez la sélection d’équipements et solutions professionnelles de Hilary Tech, adaptés à divers secteurs d’activité pour optimiser vos opérations.",
-    url: "https://ton-site.com/produits", // remplace par ton vrai lien
+    url: "https://Hilary-Tech.com/produit", // remplace par ton vrai lien
     siteName: "Hilary Tech",
     images: [
       {
-        url: "https://ton-site.com/images/produits-hilarytech.jpg", // image représentative
+        url: "https://Hilary-Tech.com/images/roue-sur-pese-essieu.png", // image représentative
         width: 1200,
         height: 630,
         alt: "Produits et solutions professionnelles Hilary Tech",

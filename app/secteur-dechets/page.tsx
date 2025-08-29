@@ -23,11 +23,11 @@ export const metadata: Metadata = {
     title: "Secteur Déchets | Hilary Tech",
     description:
       "Découvrez les solutions de Hilary Tech pour le secteur des déchets : optimisation de la collecte, du tri et de la valorisation, avec respect des normes environnementales.",
-    url: "https://ton-site.com/dechets", // remplace par ton vrai lien
+    url: "https://Hilary-Tech.com/secteur-dechets", // remplace par ton vrai lien
     siteName: "Hilary Tech",
     images: [
       {
-        url: "https://ton-site.com/images/dechets-hilarytech.jpg", // image représentative
+        url: "https://Hilary-Tech.com/images/Déchet.png", // image représentative
         width: 1200,
         height: 630,
         alt: "Solutions pour le secteur des déchets Hilary Tech",

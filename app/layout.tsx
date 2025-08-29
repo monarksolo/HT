@@ -49,11 +49,11 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Hilary Tech",
     description: "Solutions numériques innovantes pour booster vos performances.",
-    url: "https://hilarytech.bf",
+    url: "https://Hilary-Tech.com",
     siteName: "Hilary Tech",
     images: [
       {
-        url: "https://hilarytech.bf/og-image.jpg",
+        url: "https://Hilary-Tech.com/HT.png",
         width: 1200,
         height: 630,
         alt: "Hilary Tech",
@@ -72,7 +72,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="fr">
       <head>
-        <link rel="shortcut icon" href="/images/icon.png" type="image/png" />
+        <link rel="shortcut icon" href="/images/HT.png" type="image/png" />
 
         {/* Fonts */}
         <link

@@ -21,11 +21,11 @@ export const metadata: Metadata = {
     title: "Étalonnage d'un pont bascule à CGE | Hilary Tech",
     description:
       "Opération réussie d’étalonnage d’un pont bascule à CGE après installation : précision, fiabilité et conformité aux standards internationaux.",
-    url: "https://ton-site.com/cge-etalonnage", // à remplacer par ton vrai lien
+    url: "https://Hilary-Tech.com/cge", // à remplacer par ton vrai lien
     siteName: "Hilary Tech",
     images: [
       {
-        url: "https://ton-site.com/images/cge-pont-bascule.jpg", // mets une image de ce projet
+        url: "https://Hilary-Tech.com/images/CGE1.png", // mets une image de ce projet
         width: 1200,
         height: 630,
         alt: "Étalonnage d’un pont bascule à CGE",

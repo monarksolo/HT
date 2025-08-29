@@ -21,11 +21,11 @@ export const metadata: Metadata = {
     title: "Installation d'un pèse-essieux fixe pour le ministère des Routes du Sénégal | Hilary Tech",
     description:
       "Projet réussi : installation d’un pèse-essieux fixe à Thillé Boubacar, permettant un contrôle précis des poids des véhicules et renforçant la sécurité et la durabilité des infrastructures routières.",
-    url: "https://ton-site.com/pese-essieux-thille-boubacar", // remplace par ton vrai lien
+    url: "https://Hilary-Tech.com/minister_routes_senegal", // remplace par ton vrai lien
     siteName: "Hilary Tech",
     images: [
       {
-        url: "https://ton-site.com/images/pese-essieux-thille.jpg", // image représentative
+        url: "https://Hilary-Tech.com/images/routes2.png", // image représentative
         width: 1200,
         height: 630,
         alt: "Installation d’un pèse-essieux fixe à Thillé Boubacar",

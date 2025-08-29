@@ -5,7 +5,7 @@ import InfoFooterSection from "@/components/InfoFooterSection";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Installation d'un pèse-essieux | Nouveau dépôt SONABHY Bobo - Hilary Tech",
+  title: "Installation d'un pèse-essieux | Nouveau dépôt SONABHY à Bobo - Hilary Tech",
   description:
     "Hilary Tech a installé un pèse-essieux au nouveau dépôt de la SONABHY à Bobo, Péni, permettant un contrôle précis des chargements, une gestion logistique optimisée et une sécurité renforcée des opérations.",
   keywords: [
@@ -19,14 +19,14 @@ export const metadata: Metadata = {
     "sécurité chargement",
   ],
   openGraph: {
-    title: "Installation d'un pèse-essieux au nouveau dépôt SONABHY Bobo | Hilary Tech",
+    title: "Installation d'un pèse-essieux au nouveau dépôt SONABHY à Bobo | Hilary Tech",
     description:
       "Projet réussi : installation d’un pèse-essieux au nouveau dépôt de la SONABHY à Bobo, Péni, pour un contrôle précis des chargements et une gestion logistique optimisée.",
-    url: "https://ton-site.com/sonabhy-bobo", // remplace par ton vrai lien
+    url: "https://Hilary-Tech.com/sonabhy_peni", // remplace par ton vrai lien
     siteName: "Hilary Tech",
     images: [
       {
-        url: "https://ton-site.com/images/sonabhy-bobo-pese-essieux.jpg", // image représentative
+        url: "https://Hilary-Tech.com/images/peni2.png", // image représentative
         width: 1200,
         height: 630,
         alt: "Installation d’un pèse-essieux au nouveau dépôt de la SONABHY à Bobo",

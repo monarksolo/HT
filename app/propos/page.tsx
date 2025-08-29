@@ -22,11 +22,11 @@ export const metadata: Metadata = {
     title: "À propos de Hilary Tech",
     description:
       "Découvrez Hilary Tech : entreprise spécialisée dans les solutions technologiques, industrielles et commerciales, offrant un service de qualité et un accompagnement personnalisé.",
-    url: "https://ton-site.com/a-propos", // remplace par ton vrai lien
+    url: "https://Hilary-Tech.com/propos", // remplace par ton vrai lien
     siteName: "Hilary Tech",
     images: [
       {
-        url: "https://ton-site.com/images/a-propos-hilarytech.jpg", // image représentative
+        url: "https://Hilary-Tech.com/images/a propos de nous.png", // image représentative
         width: 1200,
         height: 630,
         alt: "À propos de Hilary Tech",

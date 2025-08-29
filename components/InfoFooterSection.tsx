@@ -61,9 +61,9 @@ export default function InfoFooterSection() {
 <div className="md:w-1/3 flex justify-center md:justify-end">
   <div className="transition-transform duration-300 ease-in-out transform hover:scale-110 hover:-translate-y-1">
     <Image
-      src="/images/Icon1.png"
+      src="/images/MPS.png"
       alt="Icône footer"
-      width={800}
+      width={400}
       height={300}
       className="h-auto w-full max-w-[400px] md:max-w-[600px] lg:max-w-[700px] object-contain rounded-2xl"
     />

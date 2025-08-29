@@ -21,11 +21,11 @@ export const metadata: Metadata = {
     title: "Installation d'un pèse-essieux mobile au Port Autonome de Cotonou | Hilary Tech",
     description:
       "Projet réussi : installation d’un pèse-essieux mobile au Port Autonome de Cotonou, pour un contrôle précis des chargements et une gestion optimisée des flux de marchandises.",
-    url: "https://ton-site.com/pese-essieux-cotonou", // remplace par ton vrai lien
+    url: "https://Hilary-Tech.com/port_cotonou", // remplace par ton vrai lien
     siteName: "Hilary Tech",
     images: [
       {
-        url: "https://ton-site.com/images/pese-essieux-cotonou.jpg", // image représentative
+        url: "https://Hilary-Tech.com/images/cotonou1.png", // image représentative
         width: 1200,
         height: 630,
         alt: "Installation d’un pèse-essieux mobile au Port Autonome de Cotonou",

@@ -22,11 +22,11 @@ export const metadata: Metadata = {
     title: "Installation d'un pèse-essieux au dépôt SONABHY | Hilary Tech",
     description:
       "Projet réussi : installation d’un pèse-essieux au dépôt de la SONABHY à Bingo pour un contrôle précis des poids, une meilleure gestion des flux et une sécurité renforcée.",
-    url: "https://ton-site.com/sonabhy-bingo", // remplace par ton vrai lien
+    url: "https://Hilary-Tech.com/sonabhy_bingo", // remplace par ton vrai lien
     siteName: "Hilary Tech",
     images: [
       {
-        url: "https://ton-site.com/images/sonabhy-pese-essieux.jpg", // image représentative
+        url: "https://Hilary-Tech.com/images/bingo2.png", // image représentative
         width: 1200,
         height: 630,
         alt: "Installation d’un pèse-essieux au dépôt de la SONABHY à Bingo",

@@ -22,11 +22,11 @@ export const metadata: Metadata = {
     title: "Montage d'un pont bascule à l'usine SOCOMA | Hilary Tech",
     description:
       "Projet réussi : montage d’un pont bascule robuste pour l’usine SOCOMA à Ouargaya, garantissant précision, sécurité et optimisation des opérations logistiques.",
-    url: "https://ton-site.com/socoma-ouargaya", // remplace par ton vrai lien
+    url: "https://Hilary-Tech.com/socoma", // remplace par ton vrai lien
     siteName: "Hilary Tech",
     images: [
       {
-        url: "https://ton-site.com/images/socoma-pont-bascule.jpg", // image représentative
+        url: "https://Hilary-Tech.com/images/ouargaye1.png", // image représentative
         width: 1200,
         height: 630,
         alt: "Montage d’un pont bascule à l’usine SOCOMA à Ouargaya",

@@ -21,11 +21,11 @@ export const metadata: Metadata = {
     title: "Installation de ponts bascules automatisés | Ciments du Sahel - Hilary Tech",
     description:
       "Projet réussi : installation de ponts bascules automatisés pour le chargement en vrac de ciment à l'usine des Ciments du Sahel (CDS) au Sénégal.",
-    url: "https://ton-site.com/cds-senegal", // remplace par ton vrai domaine
+    url: "https://Hilary-Tech.com/cds", // remplace par ton vrai domaine
     siteName: "Hilary Tech",
     images: [
       {
-        url: "https://ton-site.com/images/cds-pont-bascule.jpg", // ajoute une image représentative
+        url: "https://Hilary-Tech.com/images/CDS2.png", // ajoute une image représentative
         width: 1200,
         height: 630,
         alt: "Installation de ponts bascules automatisés aux Ciments du Sahel",

@@ -21,11 +21,11 @@ export const metadata: Metadata = {
     title: "Installation d'un pèse-essieux au CTVD Ouagadougou | Hilary Tech",
     description:
       "Projet d'installation d’un pèse-essieux au CTVD de Ouagadougou : un contrôle précis et rapide des chargements pour une gestion plus efficace des flux de déchets.",
-    url: "https://ton-site.com/ctvd-ouaga", // à remplacer par ton vrai lien
+    url: "https://Hilary-Tech.com/ctvd", // à remplacer par ton vrai lien
     siteName: "Hilary Tech",
     images: [
       {
-        url: "https://ton-site.com/images/ctvd-pese-essieux.jpg", // ajoute une image représentative du projet
+        url: "https://Hilary-Tech.com/images/ctvd2.png", // ajoute une image représentative du projet
         width: 1200,
         height: 630,
         alt: "Installation d’un pèse-essieux au CTVD Ouagadougou",

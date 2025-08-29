@@ -22,11 +22,11 @@ export const metadata: Metadata = {
     title: "Installation de ponts bascules au Lomé Container Terminal | Hilary Tech",
     description:
       "Projet réussi : installation de ponts bascules modernes au LCT pour un contrôle précis des flux de marchandises et une meilleure efficacité des opérations portuaires.",
-    url: "https://ton-site.com/lct-lome", // à remplacer par ton vrai lien
+    url: "https://Hilary-Tech.com/lct", // à remplacer par ton vrai lien
     siteName: "Hilary Tech",
     images: [
       {
-        url: "https://ton-site.com/images/lct-pont-bascule.jpg", // image représentative du projet
+        url: "https://Hilary-Tech.com/images/Pont_bascule_LTC.png", // image représentative du projet
         width: 1200,
         height: 630,
         alt: "Installation de ponts bascules au Lomé Container Terminal",

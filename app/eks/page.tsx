@@ -21,11 +21,11 @@ export const metadata: Metadata = {
     title: "Montage d'un pont bascule à la carrière de granite EKS | Hilary Tech",
     description:
       "Projet réussi : montage d’un pont bascule à la carrière de granite EKS à Ipelcé, pour un contrôle rigoureux des chargements et une gestion optimisée des matériaux extraits.",
-    url: "https://ton-site.com/eks-ipelce", // remplace par ton vrai lien
+    url: "https://Hilary-Tech.com/eks", // remplace par ton vrai lien
     siteName: "Hilary Tech",
     images: [
       {
-        url: "https://ton-site.com/images/eks-pont-bascule.jpg", // image représentative
+        url: "https://Hilary-Tech.com/images/EKS1.png", // image représentative
         width: 1200,
         height: 630,
         alt: "Montage d’un pont bascule à la carrière de granite EKS à Ipelcé",
