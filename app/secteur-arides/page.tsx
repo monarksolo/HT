@@ -7,7 +7,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Secteur Arides | Hilary Tech",
   description:
-    "Hilary Tech propose des solutions robustes et performantes pour le secteur des arides, optimisant l’extraction, le transport et la gestion des matériaux même dans des environnements difficiles.",
+    "Pour le secteur des arides, Hilary Tech propose des équipements de pesage et de contrôle fiables, garantissant précision, sécurité et efficacité dans la gestion des flux de matériaux lourds et abrasifs.",
   keywords: [
     "Hilary Tech",
     "secteur arides",
@@ -16,12 +16,12 @@ export const metadata: Metadata = {
     "gestion matériaux",
     "solutions industrielles",
     "environnements difficiles",
-    "performance industrielle",
+    "performance industrielle", "ponts bascules", "pèses essieux", "pesage industriel", "équipements de contrôle",
   ],
   openGraph: {
     title: "Secteur Arides | Hilary Tech",
     description:
-      "Découvrez les solutions de Hilary Tech pour le secteur des arides : extraction, transport et gestion des matériaux optimisés même dans des environnements difficiles.",
+      "Pour le secteur des arides, Hilary Tech propose des équipements de pesage et de contrôle fiables, garantissant précision, sécurité et efficacité dans la gestion des flux de matériaux lourds et abrasifs.",
     url: "https://Hilary-Tech.com/secteur-arides", // remplace par ton vrai lien
     siteName: "Hilary Tech",
     images: [

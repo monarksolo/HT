@@ -17,15 +17,25 @@ export default function InfoFooterSection() {
                 <div className="space-y-4">
                   <div className="flex items-center space-x-2">
                     <i className="fa fa-phone" aria-hidden="true"></i>
-                    <span>Tel : +226 65190708 / 78268201 / 71976627</span>
+                    <span className="group-hover:translate-x-1 group-hover:text-[#77B5FE] transition-all duration-200">Tel : +226 65190708 / 78268201 / 71976627</span>
                   </div>
 <a
-  href="mailto:Test@gmail.com"
+  href="mailto:contact@hilary-tech.com"
   className="flex items-center space-x-2 group transition-all duration-200"
 >
   <i className="fa fa-envelope group-hover:text-[#77B5FE] transition"></i>
   <span className="group-hover:translate-x-1 group-hover:text-[#77B5FE] transition-all duration-200">
-    Test@gmail.com
+    contact@hilary-tech.com
+  </span>
+</a>
+
+<a
+  href="mailto:support@hilary-tech.com"
+  className="flex items-center space-x-2 group transition-all duration-200"
+>
+  <i className="fa fa-envelope group-hover:text-[#77B5FE] transition"></i>
+  <span className="group-hover:translate-x-1 group-hover:text-[#77B5FE] transition-all duration-200">
+    support@hilary-tech.com
   </span>
 </a>
                 </div>

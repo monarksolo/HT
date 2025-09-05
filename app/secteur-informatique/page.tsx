@@ -7,7 +7,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Secteur Informatique | Hilary Tech",
   description:
-    "Hilary Tech accompagne les entreprises dans la gestion, la sécurité et l’optimisation de leurs systèmes d'information, de l’infrastructure matérielle aux logiciels métiers, pour garantir efficacité et fiabilité.",
+    "Pour le secteur informatique, Hilary Tech fournit des solutions complètes de gestion et de sécurité des systèmes, garantissant efficacité, fiabilité et optimisation des opérations industrielles et commerciales.",
   keywords: [
     "Hilary Tech",
     "secteur informatique",
@@ -17,12 +17,12 @@ export const metadata: Metadata = {
     "infrastructure matérielle",
     "logiciels métiers",
     "efficacité informatique",
-    "fiabilité systèmes",
+    "fiabilité systèmes", "ponts bascules", "pèses essieux", "pesage industriel", "équipements de contrôle",
   ],
   openGraph: {
     title: "Secteur Informatique | Hilary Tech",
     description:
-      "Découvrez les solutions de Hilary Tech pour le secteur informatique : gestion complète des systèmes d’information, sécurité, optimisation et accompagnement personnalisé des entreprises.",
+      "Pour le secteur informatique, Hilary Tech fournit des solutions complètes de gestion et de sécurité des systèmes, garantissant efficacité, fiabilité et optimisation des opérations industrielles et commerciales.",
     url: "https://Hilary-Tech.com/secteur-informatique", // remplace par ton vrai lien
     siteName: "Hilary Tech",
     images: [

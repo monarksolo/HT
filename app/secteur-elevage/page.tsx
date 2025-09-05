@@ -7,7 +7,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Secteur Élevage | Hilary Tech",
   description:
-    "Hilary Tech fournit des solutions de pesage adaptées aux élevages bovins, ovins, porcins et avicoles, assurant un suivi précis du poids des animaux pour la gestion sanitaire, l'alimentation, la reproduction et la commercialisation.",
+    "Pour le secteur de l’élevage, Hilary Tech fournit des équipements de pesage fiables et précis, permettant un contrôle rigoureux des poids, la sécurité sanitaire et l’optimisation des pratiques d’élevage et de commercialisation.",
   keywords: [
     "Hilary Tech",
     "secteur élevage",
@@ -19,12 +19,12 @@ export const metadata: Metadata = {
     "gestion sanitaire",
     "alimentation animaux",
     "reproduction animale",
-    "commercialisation",
+    "commercialisation", "ponts bascules", "pèses essieux", "pesage industriel", "équipements de contrôle",
   ],
   openGraph: {
     title: "Secteur Élevage | Hilary Tech",
     description:
-      "Découvrez les solutions de Hilary Tech pour le secteur de l’élevage : pesage précis et fiable pour bovins, ovins, porcins et avicoles, optimisant la gestion sanitaire, l’alimentation et la commercialisation.",
+      "Pour le secteur de l’élevage, Hilary Tech fournit des équipements de pesage fiables et précis, permettant un contrôle rigoureux des poids, la sécurité sanitaire et l’optimisation des pratiques d’élevage et de commercialisation.",
     url: "https://Hilary-Tech.com/secteur-elevage", // remplace par ton vrai lien
     siteName: "Hilary Tech",
     images: [

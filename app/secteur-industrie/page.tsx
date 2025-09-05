@@ -7,7 +7,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Secteur Industrie | Hilary Tech",
   description:
-    "Hilary Tech fournit aux industries des équipements de pesage robustes, des solutions d’automatisation et des outils de contrôle qualité pour optimiser les opérations industrielles.",
+    "Pour le secteur industriel, Hilary Tech fournit des équipements de pesage fiables et durables, ainsi que des solutions d’automatisation et de contrôle qualité, garantissant performance, précision et productivité.",
   keywords: [
     "Hilary Tech",
     "secteur industrie",
@@ -15,12 +15,12 @@ export const metadata: Metadata = {
     "automatisation industrielle",
     "contrôle qualité",
     "solutions industrielles",
-    "équipements robustes",
+    "équipements robustes", "ponts bascules", "pèses essieux", "pesage industriel", "équipements de contrôle",
   ],
   openGraph: {
     title: "Secteur Industrie | Hilary Tech",
     description:
-      "Découvrez les solutions de Hilary Tech pour le secteur industriel : équipements de pesage, automatisation et outils de contrôle qualité pour des opérations optimisées.",
+      "Pour le secteur industriel, Hilary Tech fournit des équipements de pesage fiables et durables, ainsi que des solutions d’automatisation et de contrôle qualité, garantissant performance, précision et productivité.",
     url: "https://Hilary-Tech.com/secteur-industrie", // remplace par ton vrai lien
     siteName: "Hilary Tech",
     images: [

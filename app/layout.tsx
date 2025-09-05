@@ -44,16 +44,16 @@ export const metadata: Metadata = {
     default: "Hilary Tech",
     template: "%s | Hilary Tech", // Pour les titres dynamiques
   },
-  description: "Solutions numériques innovantes pour booster vos performances.",
-  keywords: ["Next.js", "SEO", "Développement web", "Hilary Tech"],
+  description: "Découvrez nos solutions de pesage industriel – ponts bascules, pèses essieux et équipements de contrôle – conçues pour optimiser vos opérations, renforcer la précision et garantir la performance de vos activités.",
+  keywords: ["Next.js", "SEO", "Développement web", "Hilary Tech", "ponts bascules", "pèses essieux", "pesage industriel", "équipements de contrôle" ],
   openGraph: {
     title: "Hilary Tech",
-    description: "Solutions numériques innovantes pour booster vos performances.",
+    description: "Découvrez nos solutions de pesage industriel – ponts bascules, pèses essieux et équipements de contrôle – conçues pour optimiser vos opérations, renforcer la précision et garantir la performance de vos activités.",
     url: "https://Hilary-Tech.com",
     siteName: "Hilary Tech",
     images: [
       {
-        url: "https://Hilary-Tech.com/HT.png",
+        url: "https://Hilary-Tech.com/images/HT.png",
         width: 1200,
         height: 630,
         alt: "Hilary Tech",

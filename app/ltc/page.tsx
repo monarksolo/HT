@@ -7,7 +7,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Installation de ponts bascules | Lomé Container Terminal - Hilary Tech",
   description:
-    "Hilary Tech a installé des ponts bascules modernes au Lomé Container Terminal (LCT), optimisant le contrôle des flux de marchandises et renforçant l’efficacité des opérations portuaires.",
+    "Au Lomé Container Terminal (LCT), Hilary Tech a déployé des ponts bascules robustes et fiables, garantissant un pesage précis, une gestion fluide des cargaisons et une productivité renforcée dans les opérations portuaires.",
   keywords: [
     "ponts bascules",
     "Lomé Container Terminal",
@@ -16,12 +16,12 @@ export const metadata: Metadata = {
     "pesage industriel",
     "flux de marchandises",
     "port",
-    "opérations portuaires",
+    "opérations portuaires", "ponts bascules", "pèses essieux", "pesage industriel", "équipements de contrôle",
   ],
   openGraph: {
     title: "Installation de ponts bascules au Lomé Container Terminal | Hilary Tech",
     description:
-      "Projet réussi : installation de ponts bascules modernes au LCT pour un contrôle précis des flux de marchandises et une meilleure efficacité des opérations portuaires.",
+      "Au Lomé Container Terminal (LCT), Hilary Tech a déployé des ponts bascules robustes et fiables, garantissant un pesage précis, une gestion fluide des cargaisons et une productivité renforcée dans les opérations portuaires.",
     url: "https://Hilary-Tech.com/lct", // à remplacer par ton vrai lien
     siteName: "Hilary Tech",
     images: [

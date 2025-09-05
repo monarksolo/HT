@@ -7,7 +7,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Secteur Logistique | Hilary Tech",
   description:
-    "Hilary Tech propose des solutions modernes pour optimiser la gestion, le transport et le stockage des marchandises, améliorant l’efficacité et la performance logistique.",
+    "Pour le secteur logistique, Hilary Tech propose des équipements modernes de pesage et de suivi des flux, garantissant performance, précision et sécurité dans la gestion des marchandises.",
   keywords: [
     "Hilary Tech",
     "secteur logistique",
@@ -16,12 +16,12 @@ export const metadata: Metadata = {
     "stockage",
     "solutions logistiques",
     "optimisation logistique",
-    "performance logistique",
+    "performance logistique", "ponts bascules", "pèses essieux", "pesage industriel", "équipements de contrôle",
   ],
   openGraph: {
     title: "Secteur Logistique | Hilary Tech",
     description:
-      "Découvrez les solutions de Hilary Tech pour le secteur logistique : optimisation de la gestion, du transport et du stockage des marchandises avec des solutions modernes et fiables.",
+      "Pour le secteur logistique, Hilary Tech propose des équipements modernes de pesage et de suivi des flux, garantissant performance, précision et sécurité dans la gestion des marchandises.",
     url: "https://Hilary-Tech.com/secteur-logistique", // remplace par ton vrai lien
     siteName: "Hilary Tech",
     images: [

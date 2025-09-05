@@ -7,7 +7,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Secteur Agricole | Hilary Tech",
   description:
-    "Hilary Tech fournit des solutions fiables pour le secteur agricole, incluant le pesage, l’automatisation et la gestion des exploitations, pour optimiser les récoltes et le suivi de la production.",
+    "Pour le secteur agricole, Hilary Tech fournit des équipements de pesage fiables et des solutions d’automatisation, garantissant précision, traçabilité et productivité dans la gestion des exploitations.",
   keywords: [
     "Hilary Tech",
     "secteur agricole",
@@ -17,12 +17,12 @@ export const metadata: Metadata = {
     "gestion exploitation",
     "optimisation récoltes",
     "suivi production",
-    "solutions agricoles",
+    "solutions agricoles", "ponts bascules", "pèses essieux", "pesage industriel", "équipements de contrôle",
   ],
   openGraph: {
     title: "Secteur Agricole | Hilary Tech",
     description:
-      "Découvrez les solutions de Hilary Tech pour le secteur agricole : équipements fiables pour optimiser les récoltes, automatiser les processus et gérer efficacement les exploitations.",
+      "Pour le secteur agricole, Hilary Tech fournit des équipements de pesage fiables et des solutions d’automatisation, garantissant précision, traçabilité et productivité dans la gestion des exploitations.",
     url: "https://Hilary-Tech.com/secteur-agricole", // remplace par ton vrai lien
     siteName: "Hilary Tech",
     images: [

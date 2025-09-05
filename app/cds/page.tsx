@@ -7,7 +7,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Installation de ponts bascules automatisés | Ciments du Sahel - Hilary Tech",
   description:
-    "Hilary Tech a réalisé l'installation de ponts bascules automatisés à l'usine des Ciments du Sahel (CDS) au Sénégal, optimisant la pesée, la sécurité et la productivité.",
+    "Boostez vos performances avec nos ponts bascules automatisés. Aux Ciments du Sahel (CDS) au Sénégal, Hilary Tech a installé des équipements de pesage industriel robustes, alliant précision, productivité et sécurité.",
   keywords: [
     "ponts bascules automatisés",
     "ciments du sahel",
@@ -15,12 +15,12 @@ export const metadata: Metadata = {
     "pesée industrielle",
     "chargement en vrac",
     "Hilary Tech",
-    "installation industrielle",
+    "installation industrielle", "ponts bascules", "pèses essieux", "pesage industriel", "équipements de contrôle",
   ],
   openGraph: {
     title: "Installation de ponts bascules automatisés | Ciments du Sahel - Hilary Tech",
     description:
-      "Projet réussi : installation de ponts bascules automatisés pour le chargement en vrac de ciment à l'usine des Ciments du Sahel (CDS) au Sénégal.",
+      "Boostez vos performances avec nos ponts bascules automatisés. Aux Ciments du Sahel (CDS) au Sénégal, Hilary Tech a installé des équipements de pesage industriel robustes, alliant précision, productivité et sécurité.",
     url: "https://Hilary-Tech.com/cds", // remplace par ton vrai domaine
     siteName: "Hilary Tech",
     images: [

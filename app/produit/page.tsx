@@ -7,7 +7,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Nos Produits | Hilary Tech",
   description:
-    "Découvrez la gamme d’équipements, solutions technologiques et matériels spécialisés proposés par Hilary Tech, conçus pour répondre aux besoins des professionnels dans divers secteurs.",
+    "Hilary Tech propose une large sélection de solutions de pesage industriel et technologique, incluant ponts bascules, pèses essieux et outils spécialisés, pour améliorer la précision, la sécurité et l’efficacité des entreprises.",
   keywords: [
     "produits Hilary Tech",
     "équipements professionnels",
@@ -15,12 +15,12 @@ export const metadata: Metadata = {
     "matériel spécialisé",
     "Hilary Tech",
     "innovation industrielle",
-    "outils professionnels",
+    "outils professionnels", "ponts bascules", "pèses essieux", "pesage industriel", "équipements de contrôle",
   ],
   openGraph: {
     title: "Nos Produits | Hilary Tech",
     description:
-      "Explorez la sélection d’équipements et solutions professionnelles de Hilary Tech, adaptés à divers secteurs d’activité pour optimiser vos opérations.",
+      "Hilary Tech propose une large sélection de solutions de pesage industriel et technologique, incluant ponts bascules, pèses essieux et outils spécialisés, pour améliorer la précision, la sécurité et l’efficacité des entreprises.",
     url: "https://Hilary-Tech.com/produit", // remplace par ton vrai lien
     siteName: "Hilary Tech",
     images: [

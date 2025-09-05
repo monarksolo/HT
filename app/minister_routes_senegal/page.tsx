@@ -7,7 +7,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Installation d'un pèse-essieux fixe | Ministère des Routes Sénégal - Hilary Tech",
   description:
-    "Hilary Tech a installé un pèse-essieux fixe pour le ministère des Routes du Sénégal à Thillé Boubacar, assurant un contrôle précis du poids des véhicules pour la sécurité routière et la durabilité des infrastructures.",
+    "Hilary Tech a installé un pèse-essieux fixe performant à Thillé Boubacar, offrant une solution fiable pour mesurer le poids des véhicules, prévenir la surcharge et assurer la conformité réglementaire en matière de transport routier.",
   keywords: [
     "pèse-essieux fixe",
     "ministère des Routes Sénégal",
@@ -15,12 +15,12 @@ export const metadata: Metadata = {
     "Hilary Tech",
     "sécurité routière",
     "contrôle poids véhicules",
-    "infrastructures",
+    "infrastructures", "ponts bascules", "pèses essieux", "pesage industriel", "équipements de contrôle",
   ],
   openGraph: {
     title: "Installation d'un pèse-essieux fixe pour le ministère des Routes du Sénégal | Hilary Tech",
     description:
-      "Projet réussi : installation d’un pèse-essieux fixe à Thillé Boubacar, permettant un contrôle précis des poids des véhicules et renforçant la sécurité et la durabilité des infrastructures routières.",
+      "Hilary Tech a installé un pèse-essieux fixe performant à Thillé Boubacar, offrant une solution fiable pour mesurer le poids des véhicules, prévenir la surcharge et assurer la conformité réglementaire en matière de transport routier.",
     url: "https://Hilary-Tech.com/minister_routes_senegal", // remplace par ton vrai lien
     siteName: "Hilary Tech",
     images: [

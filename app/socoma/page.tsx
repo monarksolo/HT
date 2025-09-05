@@ -7,7 +7,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Montage d'un pont bascule | Usine SOCOMA Ouargaya - Hilary Tech",
   description:
-    "Hilary Tech a réalisé le montage d’un pont bascule performant pour l’usine SOCOMA à Ouargaya, assurant une pesée précise et sécurisée et optimisant les opérations logistiques sur site.",
+    "Hilary Tech a installé un pont bascule robuste à l’usine SOCOMA à Ouargaya, garantissant précision, fiabilité et sécurité pour toutes les opérations de pesage et la gestion logistique des matières.",
   keywords: [
     "pont bascule",
     "usine SOCOMA",
@@ -16,12 +16,12 @@ export const metadata: Metadata = {
     "pesage industriel",
     "logistique",
     "gestion des flux",
-    "sécurité industrielle",
+    "sécurité industrielle", "ponts bascules", "pèses essieux", "pesage industriel", "équipements de contrôle",
   ],
   openGraph: {
     title: "Montage d'un pont bascule à l'usine SOCOMA | Hilary Tech",
     description:
-      "Projet réussi : montage d’un pont bascule robuste pour l’usine SOCOMA à Ouargaya, garantissant précision, sécurité et optimisation des opérations logistiques.",
+      "Hilary Tech a installé un pont bascule robuste à l’usine SOCOMA à Ouargaya, garantissant précision, fiabilité et sécurité pour toutes les opérations de pesage et la gestion logistique des matières.",
     url: "https://Hilary-Tech.com/socoma", // remplace par ton vrai lien
     siteName: "Hilary Tech",
     images: [

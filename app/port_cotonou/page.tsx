@@ -7,7 +7,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Installation d'un pèse-essieux mobile | Port Autonome de Cotonou - Hilary Tech",
   description:
-    "Hilary Tech a installé un pèse-essieux mobile au Port Autonome de Cotonou (Bénin), permettant un contrôle précis des chargements sur site et facilitant la gestion efficace des flux de marchandises.",
+    "Hilary Tech a équipé le Port Autonome de Cotonou d’un pèse-essieux mobile, garantissant un contrôle rigoureux des flux de marchandises, une conformité réglementaire renforcée et une productivité accrue des opérations logistiques.",
   keywords: [
     "pèse-essieux mobile",
     "Port Autonome de Cotonou",
@@ -15,12 +15,12 @@ export const metadata: Metadata = {
     "Hilary Tech",
     "gestion des flux",
     "pesage industriel",
-    "logistique portuaire",
+    "logistique portuaire", "ponts bascules", "pèses essieux", "pesage industriel", "équipements de contrôle",
   ],
   openGraph: {
     title: "Installation d'un pèse-essieux mobile au Port Autonome de Cotonou | Hilary Tech",
     description:
-      "Projet réussi : installation d’un pèse-essieux mobile au Port Autonome de Cotonou, pour un contrôle précis des chargements et une gestion optimisée des flux de marchandises.",
+      "Hilary Tech a équipé le Port Autonome de Cotonou d’un pèse-essieux mobile, garantissant un contrôle rigoureux des flux de marchandises, une conformité réglementaire renforcée et une productivité accrue des opérations logistiques.",
     url: "https://Hilary-Tech.com/port_cotonou", // remplace par ton vrai lien
     siteName: "Hilary Tech",
     images: [

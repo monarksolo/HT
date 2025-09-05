@@ -19,6 +19,22 @@ export default function ServiceSection() {
 
         {/* Services */}
         <div className="flex flex-col md:flex-row md:space-x-6">
+
+          {/* Service 2 */}
+          <div className="flex-1 mt-11 bg-[#f8f8f9] text-center p-5 rounded">
+            <div className="flex justify-center items-start w-[125px] h-[75px] mx-auto mb-4">
+              <img src="/images/service-dassistance.png" alt="" className="max-w-full max-h-full transition-all duration-300" />
+            </div>
+            <h5 className="font-bold uppercase mb-4">
+              FOURNITURE, INSTALLATION, MAINTENANCE D&apos;EQUIPEMENTS DE PESAGE
+            </h5>
+            <p>
+              Spécialisés dans les solutions de pesage industriel et commercial, nous assurons
+              la fourniture d’équipements performants, leur installation professionnelle,
+              ainsi qu’un service de maintenance réactif. Nous vous aidons à garantir
+              précision et fiabilité dans toutes vos opérations de mesure.
+            </p>
+          </div>
           
           {/* Service 1 */}
           <div className="flex-1 mt-11 bg-[#f8f8f9] text-center p-5 rounded">
@@ -34,22 +50,6 @@ export default function ServiceSection() {
               la fourniture de consommables de qualité. Que vous soyez une entreprise ou un
               particulier, nous vous garantissons des solutions adaptées à vos besoins
               technologiques quotidiens.
-            </p>
-          </div>
-
-          {/* Service 2 */}
-          <div className="flex-1 mt-11 bg-[#f8f8f9] text-center p-5 rounded">
-            <div className="flex justify-center items-start w-[125px] h-[75px] mx-auto mb-4">
-              <img src="/images/service-dassistance.png" alt="" className="max-w-full max-h-full transition-all duration-300" />
-            </div>
-            <h5 className="font-bold uppercase mb-4">
-              FOURNITURE, INSTALLATION, MAINTENANCE D&apos;EQUIPEMENTS DE PESAGE
-            </h5>
-            <p>
-              Spécialisés dans les solutions de pesage industriel et commercial, nous assurons
-              la fourniture d’équipements performants, leur installation professionnelle,
-              ainsi qu’un service de maintenance réactif. Nous vous aidons à garantir
-              précision et fiabilité dans toutes vos opérations de mesure.
             </p>
           </div>
 

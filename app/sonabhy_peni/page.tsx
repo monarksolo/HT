@@ -7,7 +7,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Installation d'un pèse-essieux | Nouveau dépôt SONABHY à Bobo - Hilary Tech",
   description:
-    "Hilary Tech a installé un pèse-essieux au nouveau dépôt de la SONABHY à Bobo, Péni, permettant un contrôle précis des chargements, une gestion logistique optimisée et une sécurité renforcée des opérations.",
+    "Hilary Tech a équipé le nouveau dépôt SONABHY à Bobo, Péni d’un pèse-essieux performant, garantissant contrôle précis, sécurité renforcée et efficacité dans la gestion des flux de véhicules.",
   keywords: [
     "pèse-essieux",
     "SONABHY",
@@ -16,12 +16,12 @@ export const metadata: Metadata = {
     "Hilary Tech",
     "pesage industriel",
     "gestion logistique",
-    "sécurité chargement",
+    "sécurité chargement", "ponts bascules", "pèses essieux", "pesage industriel", "équipements de contrôle",
   ],
   openGraph: {
     title: "Installation d'un pèse-essieux au nouveau dépôt SONABHY à Bobo | Hilary Tech",
     description:
-      "Projet réussi : installation d’un pèse-essieux au nouveau dépôt de la SONABHY à Bobo, Péni, pour un contrôle précis des chargements et une gestion logistique optimisée.",
+      "Hilary Tech a équipé le nouveau dépôt SONABHY à Bobo, Péni d’un pèse-essieux performant, garantissant contrôle précis, sécurité renforcée et efficacité dans la gestion des flux de véhicules.",
     url: "https://Hilary-Tech.com/sonabhy_peni", // remplace par ton vrai lien
     siteName: "Hilary Tech",
     images: [

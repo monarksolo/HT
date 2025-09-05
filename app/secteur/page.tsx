@@ -8,7 +8,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Secteurs d'activité | Hilary Tech",
   description:
-    "Hilary Tech accompagne différents secteurs d’activité – logistique, industrie, carrières, élevage, agriculture, gestion des déchets et informatique – avec des solutions innovantes et fiables pour optimiser leurs opérations.",
+    "Accompagnant les secteurs logistique, industriel, agricole et plus encore, Hilary Tech propose des équipements de pesage innovants et fiables, garantissant contrôle précis, sécurité et productivité pour chaque activité.",
   keywords: [
     "Hilary Tech",
     "secteurs d'activité",
@@ -20,12 +20,12 @@ export const metadata: Metadata = {
     "gestion des déchets",
     "informatique",
     "solutions industrielles",
-    "optimisation des opérations",
+    "optimisation des opérations", "ponts bascules", "pèses essieux", "pesage industriel", "équipements de contrôle",
   ],
   openGraph: {
     title: "Secteurs d'activité | Hilary Tech",
     description:
-      "Découvrez les secteurs d’activité couverts par Hilary Tech et comment nos solutions innovantes et fiables aident à transformer et optimiser les opérations de nos clients.",
+      "Accompagnant les secteurs logistique, industriel, agricole et plus encore, Hilary Tech propose des équipements de pesage innovants et fiables, garantissant contrôle précis, sécurité et productivité pour chaque activité.",
     url: "https://Hilary-Tech.com/secteur", // remplace par ton vrai lien
     siteName: "Hilary Tech",
     images: [

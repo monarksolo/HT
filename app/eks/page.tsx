@@ -7,7 +7,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Montage d'un pont bascule | Carrière EKS Ipelcé - Hilary Tech",
   description:
-    "Hilary Tech a réalisé le montage d’un pont bascule à la carrière de granite EKS à Ipelcé, assurant un contrôle précis des chargements et une gestion optimisée des flux de matériaux.",
+    "Hilary Tech a installé un pont bascule robuste à la carrière de granite EKS à Ipelcé, garantissant un contrôle rigoureux des flux de matériaux, une productivité accrue et une traçabilité optimale des pesées.",
   keywords: [
     "pont bascule",
     "carrière EKS",
@@ -15,12 +15,12 @@ export const metadata: Metadata = {
     "Hilary Tech",
     "gestion des flux",
     "pesage industriel",
-    "matériaux extraits",
+    "matériaux extraits", "ponts bascules", "pèses essieux", "pesage industriel", "équipements de contrôle",
   ],
   openGraph: {
     title: "Montage d'un pont bascule à la carrière de granite EKS | Hilary Tech",
     description:
-      "Projet réussi : montage d’un pont bascule à la carrière de granite EKS à Ipelcé, pour un contrôle rigoureux des chargements et une gestion optimisée des matériaux extraits.",
+      "Hilary Tech a installé un pont bascule robuste à la carrière de granite EKS à Ipelcé, garantissant un contrôle rigoureux des flux de matériaux, une productivité accrue et une traçabilité optimale des pesées.",
     url: "https://Hilary-Tech.com/eks", // remplace par ton vrai lien
     siteName: "Hilary Tech",
     images: [

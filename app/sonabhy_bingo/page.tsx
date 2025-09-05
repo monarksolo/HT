@@ -7,7 +7,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Installation d'un pèse-essieux | Dépôt SONABHY Bingo - Hilary Tech",
   description:
-    "Hilary Tech a installé un pèse-essieux au dépôt de la SONABHY à Bingo, permettant un contrôle précis du poids des véhicules, une gestion optimisée des flux et une sécurité renforcée lors des opérations de chargement.",
+    "Hilary Tech a équipé le dépôt SONABHY à Bingo d’un pèse-essieux performant, garantissant précision, sécurité et efficacité pour le contrôle des poids et la gestion logistique des véhicules.",
   keywords: [
     "pèse-essieux",
     "SONABHY",
@@ -16,12 +16,12 @@ export const metadata: Metadata = {
     "pesage industriel",
     "gestion des flux",
     "sécurité chargement",
-    "contrôle poids véhicules",
+    "contrôle poids véhicules", "ponts bascules", "pèses essieux", "pesage industriel", "équipements de contrôle",
   ],
   openGraph: {
     title: "Installation d'un pèse-essieux au dépôt SONABHY | Hilary Tech",
     description:
-      "Projet réussi : installation d’un pèse-essieux au dépôt de la SONABHY à Bingo pour un contrôle précis des poids, une meilleure gestion des flux et une sécurité renforcée.",
+      "Hilary Tech a équipé le dépôt SONABHY à Bingo d’un pèse-essieux performant, garantissant précision, sécurité et efficacité pour le contrôle des poids et la gestion logistique des véhicules.",
     url: "https://Hilary-Tech.com/sonabhy_bingo", // remplace par ton vrai lien
     siteName: "Hilary Tech",
     images: [
